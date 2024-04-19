@@ -1,10 +1,10 @@
-# js-red-black-tree
+# javascript-red-black-tree
 一个Javascript实现的红黑树
 使用方式：
 npm install js-red-black-tree
 
 ```javascript
-import RBTree from "js-red-black-tree";
+import RBTree from "javascript-red-black-tree";
 
 const rbTree = new RBTree()
 rbTree.insert(6);
